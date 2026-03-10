@@ -1,0 +1,14 @@
+/Users/user/Desktop/С#_project/bin/Debug/net10.0/С#_project
+/Users/user/Desktop/С#_project/bin/Debug/net10.0/С#_project.deps.json
+/Users/user/Desktop/С#_project/bin/Debug/net10.0/С#_project.runtimeconfig.json
+/Users/user/Desktop/С#_project/bin/Debug/net10.0/С#_project.dll
+/Users/user/Desktop/С#_project/bin/Debug/net10.0/С#_project.pdb
+/Users/user/Desktop/С#_project/obj/Debug/net10.0/С#_project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/С#_project/obj/Debug/net10.0/С#_project.AssemblyInfoInputs.cache
+/Users/user/Desktop/С#_project/obj/Debug/net10.0/С#_project.AssemblyInfo.cs
+/Users/user/Desktop/С#_project/obj/Debug/net10.0/С#_project.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/С#_project/obj/Debug/net10.0/С#_project.dll
+/Users/user/Desktop/С#_project/obj/Debug/net10.0/refint/С#_project.dll
+/Users/user/Desktop/С#_project/obj/Debug/net10.0/С#_project.pdb
+/Users/user/Desktop/С#_project/obj/Debug/net10.0/С#_project.genruntimeconfig.cache
+/Users/user/Desktop/С#_project/obj/Debug/net10.0/ref/С#_project.dll
