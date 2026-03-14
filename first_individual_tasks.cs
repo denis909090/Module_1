@@ -54,8 +54,8 @@ namespace pr2
             // Task 7
             // Console.WriteLine("Введіть радіус кола:");
             // double radius = double.Parse(Console.ReadLine() ?? "0");
-            // Console.WriteLine($"Довжина кола: {radius * 2}pi");
-            // Console.WriteLine($"Площа кола: {Math.Pow(radius, 2)}pi");
+            // Console.WriteLine($"Довжина кола: {radius * 2 * Math.PI}");
+            // Console.WriteLine($"Площа кола: {Math.Pow(radius, 2) * Math.PI}");
         }
     }
 }
