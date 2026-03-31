@@ -7,9 +7,10 @@ namespace Project
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Гирман Денис");
             // higher_dif_tasks.task_8();
             // BaseTasks_2.task_4();
-            base_tasks_3.task_1();
+            base_tasks_3.task_5();
         }
     }
 }

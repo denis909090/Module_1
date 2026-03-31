@@ -1,11 +1,12 @@
 using System;
 using System.ComponentModel;
+using System.Diagnostics.Contracts;
 
 namespace Project
 {
     class base_tasks_3
     {
-        public static void task_1()
+        /*public static void task_4()
         {
             Console.WriteLine("Скільки чисел ви хочете додати в масив: ");
             int user_input = int.Parse(Console.ReadLine() ?? string.Empty); // отримуємо кількість чисел, які юзер хоче ввести
@@ -38,6 +39,23 @@ namespace Project
             Console.WriteLine($"Кількість від'ємних чисел: {neg_num}");
             Console.WriteLine($"Кількість додатніх чисел: {pos_num}");
             Console.WriteLine($"Сума всіх чисел: {sum}");
+        }*/
+        public static void task_5()
+        {
+            // Console.Write($"введіть число - ");
+            // int x = int.Parse(Console.ReadLine() ?? string.Empty); // отримуємо перше число
+            // double y = Math.Abs(x - 3) + Math.Abs(x + 2);
+            // Console.WriteLine($"Значення y: {y}");
+            
+            double start = -5;
+            double end = 5;
+            double step = 0.4;
+
+            for (double x = start; x <= end; x += step)
+            {
+                double y = Math.Abs(x - 3) + Math.Abs(x + 2);
+                Console.WriteLine($"x: {x}, y: {y}");
+            }
         }
     }
 }
