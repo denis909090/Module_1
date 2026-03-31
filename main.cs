@@ -10,7 +10,7 @@ namespace Project
             Console.WriteLine("Гирман Денис");
             // higher_dif_tasks.task_8();
             // BaseTasks_2.task_4();
-            base_tasks_3.task_5();
+            base_tasks_3.task_6();
         }
     }
 }

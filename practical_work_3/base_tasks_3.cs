@@ -40,13 +40,8 @@ namespace Project
             Console.WriteLine($"Кількість додатніх чисел: {pos_num}");
             Console.WriteLine($"Сума всіх чисел: {sum}");
         }*/
-        public static void task_5()
+        /*public static void task_5()
         {
-            // Console.Write($"введіть число - ");
-            // int x = int.Parse(Console.ReadLine() ?? string.Empty); // отримуємо перше число
-            // double y = Math.Abs(x - 3) + Math.Abs(x + 2);
-            // Console.WriteLine($"Значення y: {y}");
-            
             double start = -5;
             double end = 5;
             double step = 0.4;
@@ -56,6 +51,22 @@ namespace Project
                 double y = Math.Abs(x - 3) + Math.Abs(x + 2);
                 Console.WriteLine($"x: {x}, y: {y}");
             }
+        }*/
+        public static void task_6()
+        {
+            Console.Write("Введіть число a: ");
+            int a = int.Parse(Console.ReadLine() ?? string.Empty);
+            Console.Write("Введіть число b: ");
+            int b = int.Parse(Console.ReadLine() ?? string.Empty);
+            int[] numbers = new int[0];
+            for (int i = a; i > b; i--)
+            {
+                numbers = numbers.Append(i).ToArray(); 
+                Console.WriteLine(i);
+            }
+            Console.WriteLine("Масив чисел:");
+            Console.WriteLine(string.Join(", ", numbers));
+            Console.WriteLine($"Кількість чисел: {numbers.Length}");
         }
     }
 }
