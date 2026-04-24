@@ -123,7 +123,6 @@ namespace Project
 
                     if (login == "admin")
                         isAdmin = true;
-
                     break;
                 }
             }
