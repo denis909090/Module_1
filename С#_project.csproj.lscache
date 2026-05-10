@@ -54,6 +54,7 @@ TemporaryDependencyNodeTargetIdentifier=net10.0
 /warnaserror+:NU1605,SYSLIB0011
 
 [sourceFiles]
+indibidual_task.cs
 laboratory_1/laba.cs
 main.cs
 obj/Debug/net10.0/
@@ -65,13 +66,14 @@ practical_work_2/
  higher_dif_tasks.cs
 practical_work_3/base_tasks_3.cs
 practical_work_4/base_tasks_4.cs
+practical_work_5/base_tasks_5.cs
 practical_worl_1/
  base_tasks.cs
  individual_tasks.cs
 trainee_file.cs
 
 [metadataReferences]
-../../../../usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/10.0.3/ref/net10.0/
+<DOTNET>/packs/Microsoft.NETCore.App.Ref/10.0.3/ref/net10.0/
  Microsoft.CSharp.dll
  Microsoft.VisualBasic.Core.dll
  Microsoft.VisualBasic.dll
@@ -241,17 +243,17 @@ trainee_file.cs
  WindowsBase.dll
 
 [analyzerReferences]
-../../../../usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/10.0.3/analyzers/dotnet/cs/
+<DOTNET>/packs/Microsoft.NETCore.App.Ref/10.0.3/analyzers/dotnet/cs/
  Microsoft.Interop.ComInterfaceGenerator.dll
  Microsoft.Interop.JavaScript.JSImportGenerator.dll
  Microsoft.Interop.LibraryImportGenerator.dll
  Microsoft.Interop.SourceGeneration.dll
  System.Text.Json.SourceGeneration.dll
  System.Text.RegularExpressions.Generator.dll
-../../../../usr/local/share/dotnet/sdk/10.0.103/Sdks/Microsoft.NET.Sdk/analyzers/
+<DOTNET>/sdk/10.0.103/Sdks/Microsoft.NET.Sdk/analyzers/
  Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll
  Microsoft.CodeAnalysis.NetAnalyzers.dll
 
 [analyzerConfigFiles]
-../../../../usr/local/share/dotnet/sdk/10.0.103/Sdks/Microsoft.NET.Sdk/analyzers/build/config/analysislevel_10_default.globalconfig
+<DOTNET>/sdk/10.0.103/Sdks/Microsoft.NET.Sdk/analyzers/build/config/analysislevel_10_default.globalconfig
 obj/Debug/net10.0/С#_project.GeneratedMSBuildEditorConfig.editorconfig

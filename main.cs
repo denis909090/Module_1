@@ -1,5 +1,5 @@
 ﻿using System;
-using Project.lab_1;
+using Project;
 
 namespace Project
 {
@@ -8,7 +8,7 @@ namespace Project
         static void Main(string[] args)
         {
             Console.WriteLine("Гирман Денис");
-            BaseTasks_4.task_6();
+            Base_tasks_5.task_2();
         }
     }
 }
